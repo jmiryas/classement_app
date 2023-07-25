@@ -21,6 +21,80 @@ Klasemen
                     <h6 class="card-title">Klasemen</h6>
                 </div>
 
+                <div class="row align-items-center justify-content-center mb-4">
+                    <div class="col-12 col-md-6">
+                        <div class="d-flex justify-content-between align-items-start">
+                            <div class="ms-2 me-auto">
+                                <div class="fw-bold">PD</div>
+                            </div>
+                            <span>Permainan Dimainkan</span>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="d-flex justify-content-between align-items-start">
+                            <div class="ms-2 me-auto">
+                                <div class="fw-bold">M</div>
+                            </div>
+                            <span>Menang</span>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="d-flex justify-content-between align-items-start">
+                            <div class="ms-2 me-auto">
+                                <div class="fw-bold">S</div>
+                            </div>
+                            <span>Seri</span>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="d-flex justify-content-between align-items-start">
+                            <div class="ms-2 me-auto">
+                                <div class="fw-bold">K</div>
+                            </div>
+                            <span>Kalah</span>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="d-flex justify-content-between align-items-start">
+                            <div class="ms-2 me-auto">
+                                <div class="fw-bold">GM</div>
+                            </div>
+                            <span>Gol Memasukkan</span>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="d-flex justify-content-between align-items-start">
+                            <div class="ms-2 me-auto">
+                                <div class="fw-bold">GK</div>
+                            </div>
+                            <span>Gel Kemasukkan</span>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="d-flex justify-content-between align-items-start">
+                            <div class="ms-2 me-auto">
+                                <div class="fw-bold">SG</div>
+                            </div>
+                            <span>Selisih Gol</span>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="d-flex justify-content-between align-items-start">
+                            <div class="ms-2 me-auto">
+                                <div class="fw-bold">Poin</div>
+                            </div>
+                            <span>Poin Didapatkan</span>
+                        </div>
+                    </div>
+                </div>
+
                 <table class="table table-responsive datatable">
                     <thead>
                         <tr>
